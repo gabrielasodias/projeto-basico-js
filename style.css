@@ -73,6 +73,15 @@ button{
     border:solid 1px transparent;
     border-radius: 5px;
 }
+
+footer{
+    background-color: #e5e5e5;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
   
   
 
